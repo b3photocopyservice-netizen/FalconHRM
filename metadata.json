@@ -1,0 +1,6 @@
+{
+  "name": "Falcon HRM",
+  "description": "An enterprise-grade comprehensive Human Resource and Payroll management dashboard supporting multiple branches, appraisals, ledgers, and welfare claims with AI coaching assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
